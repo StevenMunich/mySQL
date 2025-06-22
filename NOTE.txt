@@ -1,0 +1,6 @@
+If you ever see products table connected to a users table then that suggest a marketplace where users UPLOAD products to sell.
+
+This database is for BUYERS not SELLERS
+
+
+Running mySQL on your PC can open ports to the internet, so be careful with security.
